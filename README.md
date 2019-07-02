@@ -6,6 +6,6 @@ The goal was to use text analysis on vlog transcripts of youtubers in order to c
 The text was split into words and then various sentiment features were extracted, such as anger, disgust, fear etc. Then a 
 model was made for each persnality type, resulting in 5 models in total. 
 
-Due to the restrictions set by the course the choice of possible machined learning methods was confined to simple regression. 
+Due to the restrictions set by the course the choice of possible machine learning methods was confined to simple regression. 
 By making a smiple regression model for each personality, a classfication accuracy of 73% was reached when tested on the test
 dataset. 
